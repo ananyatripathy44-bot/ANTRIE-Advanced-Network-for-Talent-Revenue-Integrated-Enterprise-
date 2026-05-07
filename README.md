@@ -1,0 +1,2 @@
+# ANTRIE-Advanced-Network-for-Talent-Revenue-Integrated-Enterprise-
+ANTRIE: The Meritocracy Engine. A data-driven operational architecture replacing subjective management with objective analytics. Features conflict-free tasking, real-time Profit-Expense Delta tracking, and a bias-free Bonus Efficiency Scatter Plot. Includes Enterprise Dark-Mode &amp; CSV audit trails for full HR/financial transparency.
